@@ -13,7 +13,7 @@ on:
         required: false
       heroku-app-name:
         description: "可选，如果输入，则会覆盖 Secrets 里面配置的 APP_NAME。"
-        default: ""
+        default: "jkdsjfk"
         required: false
       env:
         description: "environment: Input the name of Environment. If left blank, the main secrets setting will be used by default."
